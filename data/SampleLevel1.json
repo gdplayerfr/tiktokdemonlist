@@ -1,16 +1,16 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
+    "id": 27690100,
+    "name": "Slaughterhouse",
+    "author": "icEDCave",
     "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "verifier": "Turtel",
+    "verification": "https://youtu.be/nfxU9MF229g?si=vgGGWBOBKN1LYHyD",
+    "percentToQualify": 58,
+    "password": "Free to copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "blazenik",
+            "link": "https://youtu.be/EuAWUq9jczk?si=RdaxlK2mo_Ny9Ygi",
             "percent": 100,
             "hz": 360
         }

@@ -1,1 +1,24 @@
-
+{
+    "id": 71025973,
+    "name": "Oblivion",
+    "author": "Dice88",
+    "verifier": "Brycethebest",
+    "creators": [],
+    "verification": "https://youtu.be/GhXTd54Da1I?si=hs9WYf0FlNTgSDAe",
+    "percentToQualify": 55,
+    "password": "Free to copy",
+    "records": [
+         {
+            "user": "turtel",
+            "link": "https://youtu.be/wH7hRJfBvyE?si=anIwcVSzTssBLk2j",
+            "percent": 100,
+            "hz": 360
+         },
+ {
+            "user": "Moix",
+            "link": "https://youtu.be/LV_xKlTX2z0?si=6LBtU0tUTwEu4AHO",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

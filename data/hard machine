@@ -1,1 +1,24 @@
-f
+{
+    "id": 72744364,
+    "name": "hard machine",
+    "author": "Komp",
+    "verifier": "Donei",
+    "creators": [],
+    "verification": "https://youtu.be/bMMDGbgzMpg?si=yKZqX7mVrbqh-jcO",
+    "percentToQualify": 73,
+    "password": "Free to copy",
+    "records": [
+         {
+            "user": "nordstrom",
+            "link": "https://youtu.be/XGcqdfas67s?si=tQdNeKDrWsMGcy6k",
+            "percent": 100,
+            "hz": 360
+         },
+ {
+            "user": "adamgmd",
+            "link": "https://youtu.be/_LCWGSY0Vp0?si=XjClxhK2lts3D_gr",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

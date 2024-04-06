@@ -1,1 +1,18 @@
-
+{
+    "id": 27690100,
+    "name": "the_golden",
+    "author": "BoBoBoBoBoBoBo",
+    "verifier": "Nocturina",
+    "creators": [],
+    "verification": "https://youtu.be/vCjhn-5y0ow?si=IFp4Hl5IE-0strgt",
+    "percentToQualify": 50,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "JohnLikesDiamond",
+            "link": "https://youtu.be/XCnEB1uWJrQ?si=MXZC3jjpf07UV_jT",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

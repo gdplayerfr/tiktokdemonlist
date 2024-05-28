@@ -1,5 +1,5 @@
 {
-    "id": 27690100,
+    "id": 60978746,
     "name": "the golden",
     "author": "BoBoBoBoBoBoBo",
     "verifier": "Nocturina",
@@ -11,6 +11,12 @@
         {
             "user": "turtel",
             "link": "https://youtu.be/XCnEB1uWJrQ?si=MXZC3jjpf07UV_jT",
+            "percent": 100,
+            "hz": 360
+        },
+            {
+            "user": "Kopre",
+            "link": "https://youtu.be/1PPcsaaBAs8?si=vRw0_N2lC0Mk73QG",
             "percent": 100,
             "hz": 360
         },

@@ -1,1 +1,24 @@
-https://youtu.be/zY-UvBILtPM?si=CKHH1uGJgOLTfq-G
+{
+    "id": 72744364,
+    "name": "Midnight",
+    "author": "Yuko",
+    "verifier": "Kopre",
+    "creators": [],
+    "verification": "https://youtu.be/zY-UvBILtPM?si=CKHH1uGJgOLTfq-G",
+    "percentToQualify": 65,
+    "password": "Free to copy",
+    "records": [
+         {
+            "user": "fxrmula",
+            "link": "https://youtu.be/kInvZzX453w?si=DTTrWYa-P0fyqsKl",
+            "percent": 100,
+            "hz": 360
+         },
+         {
+            "user": "Mystery",
+            "link": "https://youtu.be/hl8xaCVGmkg?si=JrSCu_cKo4g5gjdZ",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

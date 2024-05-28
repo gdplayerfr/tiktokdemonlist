@@ -1,1 +1,18 @@
-
+{
+    "id": 42584142,
+    "name": "Bloodlust",
+    "author": "Manix",
+    "creators": [],
+    "verifier": "Turtle",
+    "verification": "https://youtu.be/Ldn8HwKqttQ?si=Jqu-KB0dsgCw7-OQ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "GDplayerfr",
+            "link": "https://youtu.be/yhrKpPJA6Uo?si=S2wifjrsD883L-eX",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

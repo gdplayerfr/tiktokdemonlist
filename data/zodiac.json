@@ -1,0 +1,48 @@
+{
+    "id": 52374843,
+    "name": "Zodiac",
+    "author": "Bianox",
+    "verifier": "Nordstrom",
+    "creators": [],
+    "verification": "https://youtu.be/uaA21dA2qUk?si=u6wWnp2EXs10tC8t",
+    "percentToQualify": 61,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "Kole",
+            "link": "https://youtu.be/p364YI4syjs?si=YQwIVEXsSoXfREHw",
+            "percent": 100,
+            "hz": 360
+        },
+             {
+            "user": "Mystery",
+            "link": "https://youtu.be/hWaBqtrU3Ps?si=UKy2BuMCUf9O0MWB",
+            "percent": 100,
+            "hz": 360
+        },
+         {
+            "user": "Suave",
+            "link": "https://youtu.be/K_lWw5HX-lI?si=5Kio_gdaLLhLg-kl",
+            "percent": 100,
+            "hz": 360
+         },
+           {
+            "user": "Turtle",
+            "link": "https://youtu.be/O6AmRaA17rU?si=bAH6jYW2wGZihgy7",
+            "percent": 100,
+            "hz":360
+         },
+         {
+            "user": "brzds",
+            "link": "https://youtu.be/kphmdYEWfJw?si=z1JQr0eKHsfM1pDa",
+            "percent": 98,
+            "hz":360
+         },
+             {
+            "user": "kopre",
+            "link": "https://youtu.be/-mplFBXK7VU?si=sR3IzpFMKaGmyAXL",
+            "percent": 79,
+            "hz":360
+         }
+    ]
+}

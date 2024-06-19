@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/JpPwflzKW4w?si=33v5yAqxDy1HreJX",
     "percentToQualify": "49",
     "password": "Free To Copy",
-    "records": [
+    "records": [       
+        {
+            "user": "Kopre",
+            "link": "https://youtu.be/RPn6nQ_OpRw?si=Qfh6Jd6khJx2tBdB",
+            "percent": 100,
+            "hz": 360
+         }
     ]
 }

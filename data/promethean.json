@@ -1,0 +1,23 @@
+{
+    "id": 69333212,
+    "name": "Promethean",
+    "author": "EndLevel",
+    "verifier": "Nocturina",
+    "creators": [],
+    "verification": "https://youtu.be/3hlK7OYiv_M?si=m6NViYLNDA2K0o0z",
+    "percentToQualify": 73,
+    "password": "Free to copy",
+    "records": [
+        {
+            "user": "Mystery",
+            "link": "https://youtu.be/ga9wE02W3Mg?si=TYM4L-8345eCXCVA",
+            "percent": 100,
+            "hz": 360
+        },
+         {
+            "user": "Kole",
+            "link": "https://youtu.be/JVsNpELZG4E?si=F0ZNlV67p7wLpbDH",
+            "percent": 100,
+            "hz": 360
+         }
+]

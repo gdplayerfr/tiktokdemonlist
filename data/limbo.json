@@ -8,6 +8,12 @@
     "percentToQualify": "52",
     "password": "Free To Copy",
     "records": [
+            {
+            "user": "Nebular",
+            "link": "https://youtu.be/FhmG7I7Cf48?si=uRtGYLxBh2HDLDgA",
+            "percent": 100,
+            "hz": 360
+         },
         {
             "user": "Kane",
             "link": "https://youtu.be/pXcswfAaFGE?si=tboq1H73QNOjmEl9",

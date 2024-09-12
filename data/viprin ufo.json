@@ -1,1 +1,18 @@
-
+{
+    "id": 107238250,
+    "name": "Viprin UFO",
+    "author": "Hawkyre",
+    "verifier": "Nocturina",
+    "creators": [],
+    "verification": "https://www.youtube.com/watch?v=5hhPumezil4",
+    "percentToQualify": 50,
+    "password": "Free to copy",
+    "records": [
+         {
+            "user": "Ronrjkw",
+            "link": "https://www.youtube.com/watch?v=oXcZiDQg9cM",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

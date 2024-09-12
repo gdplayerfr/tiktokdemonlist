@@ -1,1 +1,30 @@
-
+{
+    "id": 42584142,
+    "name": "SUPERHATEMEWORLD",
+    "author": "Icedcave",
+    "creators": [],
+    "verifier": "sawyer",
+    "verification": "https://youtu.be/rpJY_JKBNFc?si=mN9r0YSp9pRJ4pF5",
+    "percentToQualify": "70",
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "nemzie",
+            "link": "https://youtu.be/B1089sP4dno?si=lNgrh89vfcYXZv3l",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Kole",
+            "link": "https://youtu.be/phKCMUuEiAE?si=gy3hOBLyHTgnQADO",
+            "percent": 100,
+            "hz": 360
+         },
+    {
+            "user": "Nordstrom",
+            "link": "https://youtu.be/c7x-ZIfmF8E?si=P3Uikr1luFxyGg3G",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

@@ -8,12 +8,6 @@
     "percentToQualify": 58,
     "password": "Free to copy",
     "records": [
-        {
-            "user": "blazenik",
-            "link": "https://youtu.be/EuAWUq9jczk?si=RdaxlK2mo_Ny9Ygi",
-            "percent": 100,
-            "hz": 360
-        },
          {
             "user": "Nocturina",
             "link": "https://youtu.be/6C_-jSkZJhw?si=WCnHW-4tl5ZXrHL3",
@@ -31,6 +25,7 @@
             "link": "https://youtu.be/KzJWQAnNcaY?si=7yyUIG22hdkEtgTb",
             "percent": 91,
             "hz":360
-         }
+         },
+
     ]
 }

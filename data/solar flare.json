@@ -1,1 +1,18 @@
-
+{
+    "id": 75206202,
+    "name": "Solarflare",
+    "author": "liisp",
+    "creators": [],
+    "verifier": "Sunix",
+    "verification": "https://youtu.be/UOvBRCLA6Vw?si=V8Ir167afZzNcujO",
+    "percentToQualify": "49",
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "Nocturina",
+            "link": "https://youtu.be/GNrQxUPPUXc?si=853xI1y7M0ej4BqF",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

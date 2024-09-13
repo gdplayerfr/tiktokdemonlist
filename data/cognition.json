@@ -1,7 +1,7 @@
 {
-    "id": 58161496,
+    "id": 57600307,
     "name": "Cognition",
-    "author": "Nikroplays",
+    "author": "Endlevel",
     "creators": [],
     "verifier": "JohnLikesDiamond",
     "verification": "https://www.youtube.com/watch?v=HMpuKt8FuRo",
@@ -22,19 +22,25 @@
          },
    {
             "user": "Kopre",
-            "link": "https://www.youtube.com/watch?v=U-Pt-J7CFT8",
+            "link": "https://www.youtube.com/watch?v=exFwrwpQSR8",
             "percent": 100,
             "hz": 360
          },
          {
-            "user": "turtle",
-            "link": "https://www.youtube.com/watch?v=8URUmwKEWxw",
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=tCHfbHsbQO8",
             "percent": 100,
             "hz": 360
          },
          {
-            "user": "Suave",
-            "link": "https://www.youtube.com/watch?v=D0JhNU7VaE8",
+            "user": "BryceTheBest",
+            "link": "https://www.youtube.com/watch?v=9YMp1WIMcPM",
+            "percent": 100,
+            "hz": 360
+         },
+             {
+            "user": "Moix",
+            "link": "https://www.youtube.com/watch?v=SAfnMDiqisc",
             "percent": 100,
             "hz": 360
          }

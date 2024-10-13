@@ -1,0 +1,30 @@
+{
+    "id": 71912451,
+    "name": "Rust",
+    "author": "neigefeu",
+    "creators": [],
+    "verifier": "Mystery",
+    "verification": "https://www.youtube.com/watch?v=04MW4ddvYKY",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Killhinker",
+            "link": "https://www.youtube.com/watch?v=_WDI3L-Zfmk",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Nordstrom",
+            "link": "https://www.youtube.com/watch?v=FFura6mEwHo",
+            "percent": 100,
+            "hz": 360
+         }
+          {
+            "user": "Moix",
+            "link": "https://www.youtube.com/watch?v=aN1rSp-Jf-c",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

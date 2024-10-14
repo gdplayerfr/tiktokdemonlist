@@ -1,0 +1,24 @@
+{
+    "id": 68654380,
+    "name": "Omega Interface",
+    "author": "Zipixbox",
+    "creators": [],
+    "verifier": "JohnLikesDiamond",
+    "verification": "https://www.youtube.com/watch?v=I5n5vNMEOx4",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+            {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=yVlfqts0BJg",
+            "percent": 100,
+            "hz": 360
+         },
+        {
+            "user": "Mystery",
+            "link": "https://www.youtube.com/watch?v=uxved-RpHwY",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

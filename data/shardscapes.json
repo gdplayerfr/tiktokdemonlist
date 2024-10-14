@@ -1,0 +1,48 @@
+{
+    "id": 79997992,
+    "name": "Shardscapes",
+    "author": "Kiba",
+    "creators": [],
+    "verifier": "BryceTheBest",
+    "verification": "https://www.youtube.com/watch?v=AsI1VmN6fgY",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Kopre",
+            "link": "https://www.youtube.com/watch?v=92YEbH9q1ig",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Fxrmula",
+            "link": "https://www.youtube.com/watch?v=LcqQF0dPpKE",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=6pI6enyhYgc",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Mystery",
+            "link": "https://www.youtube.com/watch?v=J_tJi_qRVxg",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Killhinker",
+            "link": "https://www.youtube.com/watch?v=OKca7f9juuw",
+            "percent": 100,
+            "hz": 360
+         },
+                {
+            "user": "Nordstrom",
+            "link": "https://www.youtube.com/watch?v=hRu1xGRUEKo",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

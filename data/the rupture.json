@@ -1,0 +1,30 @@
+{
+    "id": 57600307,
+    "name": "The Rupture",
+    "author": "Endlevel",
+    "creators": [],
+    "verifier": "Mystery",
+    "verification": "https://www.youtube.com/watch?v=sk5RzWUPd1c",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+            {
+            "user": "fxrmula",
+            "link": "https://www.youtube.com/watch?v=BALzseO2yUU",
+            "percent": 100,
+            "hz": 360
+         },
+        {
+            "user": "Kopre",
+            "link": "https://www.youtube.com/watch?v=w-TbJT82N0s",
+            "percent": 100,
+            "hz": 360
+         },
+   {
+            "user": "Turtle",
+            "link": "https://www.youtube.com/watch?v=w-TbJT82N0s",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

@@ -9,8 +9,62 @@
     "password": "Free To Copy",
     "records": [
           {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=azz851r_Xow",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "JohnLikesDiamond",
+            "link": "hhttps://www.youtube.com/watch?v=uZ3LV8zst1c",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Moix",
+            "link": "https://www.youtube.com/watch?v=6-K7qmYKhCg",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "3lit3hax",
+            "link": "https://www.youtube.com/watch?v=MO8zfje9wws",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Nordstrom",
+            "link": "https://www.youtube.com/watch?v=Wxl39mCaDRY",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Ronrjkw",
+            "link": "https://www.youtube.com/watch?v=iHX23137jzM",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "timmy",
+            "link": "https://youtu.be/yhrKpPJA6Uo?si=S2wifjrsD883L-eX",
+            "percent": 100,
+            "hz": 360
+         },
+          {
             "user": "GDplayerfr",
             "link": "https://youtu.be/yhrKpPJA6Uo?si=S2wifjrsD883L-eX",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Suave",
+            "link": "https://www.youtube.com/watch?v=RI7Ynly3vGQ",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Steal",
+            "link": "https://www.youtube.com/watch?v=2fLzVMR3J1w",
             "percent": 100,
             "hz": 360
          }

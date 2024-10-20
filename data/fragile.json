@@ -1,0 +1,24 @@
+{
+    "id":  65588448,
+    "name": "Fragile",
+    "author": "Endlevel",
+    "creators": [],
+    "verifier": "Kole",
+    "verification": "https://www.youtube.com/watch?v=GJH5PaPsld0",
+    "percentToQualify": "47",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Turtle",
+            "link": "https://www.youtube.com/watch?v=bemO5eovnkY",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Mystery",
+            "link": "https://www.youtube.com/watch?v=qJJoeDx9kBA",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

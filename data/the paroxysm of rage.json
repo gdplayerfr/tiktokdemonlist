@@ -1,1 +1,24 @@
-
+{
+    "id": 87071894,
+    "name": "The Paroxysm of Rage",
+    "author": "Evil buds",
+    "creators": [],
+    "verifier": "Turtle",
+    "verification": "https://www.youtube.com/watch?v=nq3i1qJQeEk",
+    "percentToQualify": "54",
+    "password": "Free To Copy",
+    "records": [ 
+            {
+            "user": "Kopre",
+            "link": "https://www.youtube.com/watch?v=746O_LgsL3o",
+            "percent": 100,
+            "hz": 360
+         },
+    {
+            "user": "JohnLikesDiamond",
+            "link": "https://www.youtube.com/watch?v=vtv0rg8Qajw",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

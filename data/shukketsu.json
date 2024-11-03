@@ -1,22 +1,28 @@
 {
     "id": 75286957,
-    "name": "shukketsu",
-    "author": "zYuko",
+    "name": "Skukketsu",
+    "author": "yuko",
     "creators": [],
     "verifier": "JohnLikesDiamond",
     "verification": "https://www.youtube.com/watch?v=0EpwzqoS2Gs",
-    "percentToQualify": "45",
+    "percentToQualify": "78",
     "password": "Free To Copy",
-    "records": [    
-    {
+    "records": [
+            {
             "user": "Kopre",
             "link": "https://www.youtube.com/watch?v=MMycWd-zaEQ",
             "percent": 100,
             "hz": 360
          },
-             {
+        {
             "user": "Lus",
             "link": "https://www.youtube.com/watch?v=aUU_zokOiag",
+            "percent": 100,
+            "hz": 360
+         },
+   {
+            "user": "turtle",
+            "link": "https://www.youtube.com/watch?v=MBvP5cue7s4",
             "percent": 100,
             "hz": 360
          }

@@ -1,0 +1,36 @@
+{
+    "id": 80966089,
+    "name": "CITRA",
+    "author": "VARSE",
+    "creators": [],
+    "verifier": "Kopre",
+    "verification": "https://www.youtube.com/watch?v=W1e_tAfBa-A",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+            {
+            "user": "turtle",
+            "link": "https://www.youtube.com/watch?v=d6vfVDwK01A",
+            "percent": 100,
+            "hz": 360
+         },
+        {
+            "user": "Fxrmula",
+            "link": "https://www.youtube.com/watch?v=K6iwez8iw3I",
+            "percent": 100,
+            "hz": 360
+         },
+   {
+            "user": "Mystery",
+            "link": "https://www.youtube.com/watch?v=OoWjiqbhNlM",
+            "percent": 100,
+            "hz": 360
+         },
+         {
+            "user": "BryceTheBest",
+            "link": "https://www.youtube.com/watch?v=4LVUfLrmL0c",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

@@ -1,1 +1,36 @@
-
+{
+    "id": 86787878,
+    "name": "Sazerix",
+    "author": "Zeptrus",
+    "creators": [],
+    "verifier": "Kopre",
+    "verification": "https://www.youtube.com/watch?v=CMwgwESDRlA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Mystery",
+            "link": "https://www.youtube.com/watch?v=RR_mKSFIOyk",
+            "percent": 100,
+            "hz": 360
+         },
+         {
+            "user": "Fxrmula",
+            "link": "https://www.youtube.com/watch?v=7aTkuzhwfaI",
+            "percent": 100,
+            "hz": 360
+         },
+                 {
+            "user": "JohnLikesDiamond",
+            "link": "https://www.youtube.com/watch?v=RfAFZbhHlgk",
+            "percent": 100,
+            "hz": 360
+         },
+                   {
+            "user": "Nordstrom",
+            "link": "https://www.youtube.com/watch?v=-k9oK0PE_9A",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

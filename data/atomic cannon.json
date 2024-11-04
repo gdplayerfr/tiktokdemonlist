@@ -1,0 +1,30 @@
+{
+    "id": 77681476,
+    "name": "ATOMIC CANNON",
+    "author": "Lieb",
+    "creators": [],
+    "verifier": "Mystery",
+    "verification": "https://www.youtube.com/watch?v=dvJKK45yH7A",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "Kopre",
+            "link": "https://www.youtube.com/watch?v=tKHmL3pAA60",
+            "percent": 100,
+            "hz": 360
+         },
+            {
+            "user": "Fxrmula",
+            "link": "https://www.youtube.com/watch?v=rcnziQCS2Ig",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Moix",
+            "link": "https://www.youtube.com/watch?v=EwOGOihD810",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

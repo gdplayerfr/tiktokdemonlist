@@ -43,6 +43,18 @@
             "link": "https://www.youtube.com/watch?v=SAfnMDiqisc",
             "percent": 100,
             "hz": 360
+         },
+                 {
+            "user": "Lus",
+            "link": "https://www.youtube.com/watch?v=-tWjlO0SdDE",
+            "percent": 100,
+            "hz": 360
+         },
+              {
+            "user": "Fxrmula",
+            "link": "https://www.youtube.com/watch?v=CZEUkLhg71A",
+            "percent": 100,
+            "hz": 360
          }
     ]
 }

@@ -1,0 +1,48 @@
+{
+    "id": 46763581,
+    "name": "Kowareta",
+    "author": "Gablor",
+    "creators": [],
+    "verifier": "Turtle",
+    "verification": "https://www.youtube.com/watch?v=LHp4VWJqicI",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "BruceTheBest",
+            "link": "https://www.youtube.com/watch?v=C6osLoAcjCM",
+            "percent": 100,
+            "hz": 360
+         },
+  {
+            "user": "Kopre",
+            "link": "https://www.youtube.com/watch?v=kc0bcZ5U4Po",
+            "percent": 100,
+            "hz": 360
+         },
+ {
+            "user": "Fxrmula",
+            "link": "https://www.youtube.com/watch?v=rdLm4Bu7S8I",
+            "percent": 100,
+            "hz": 360
+         },
+ {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=sj8rjvu-uoM",
+            "percent": 100,
+            "hz": 360
+         },
+ {
+            "user": "Moix",
+            "link": "https://www.youtube.com/watch?v=tbUcjlwU58s",
+            "percent": 100,
+            "hz": 360
+         },
+ {
+            "user": "Mystery",
+            "link": "https://www.youtube.com/watch?v=jbLxyXThYJE",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

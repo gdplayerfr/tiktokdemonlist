@@ -1,0 +1,24 @@
+{
+    "id": 68353244,
+    "name": "Nhelv",
+    "author": "SrGuillester",
+    "creators": [],
+    "verifier": "Kopre",
+    "verification": "https://www.youtube.com/watch?v=hSs36sHXVFw",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Sanctum",
+            "link": "https://www.youtube.com/watch?v=LZWUnhafCg0",
+            "percent": 100,
+            "hz": 360
+         },
+   {
+            "user": "Flaminqq",
+            "link": "https://www.youtube.com/watch?v=LvWTBNCHRtg",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

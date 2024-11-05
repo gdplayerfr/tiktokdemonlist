@@ -1,0 +1,18 @@
+{
+    "id": 96590328,
+    "name": "Ploink",
+    "author": "Goob",
+    "creators": [],
+    "verifier": "JohnLikesDiamond",
+    "verification": "https://www.youtube.com/watch?v=vPBeEFWZeZU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Ronrjkw",
+            "link": "https://www.youtube.com/watch?v=0e9dNUc76WM",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

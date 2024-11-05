@@ -1,0 +1,24 @@
+{
+    "id": 107741051,
+    "name": "Natural Disaster",
+    "author": "CairoX",
+    "creators": [],
+    "verifier": "JohnLikesDiamond",
+    "verification": "https://www.youtube.com/watch?v=HJMsVW-aCI4",
+    "percentToQualify": "71",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Nocturina",
+            "link": "https://www.youtube.com/watch?v=afNVTnESPXU",
+            "percent": 100,
+            "hz": 360
+         },
+   {
+            "user": "Turtle",
+            "link": "https://youtu.be/3D3XBKM9qZo?si=V-rcXmIZHHBlEAJ1",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

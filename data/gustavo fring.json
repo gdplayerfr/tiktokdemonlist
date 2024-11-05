@@ -1,0 +1,18 @@
+{
+    "id": 80585951,
+    "name": "Gustavo Fring",
+    "author": "Renn241",
+    "creators": [],
+    "verifier": "Turtle",
+    "verification": "https://www.youtube.com/watch?v=sw_Idsp1i_M",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "fxrmula",
+            "link": "https://www.youtube.com/watch?v=cX2nLXYWJeo",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

@@ -8,5 +8,11 @@
     "percentToQualify": "68",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "Nordstrom",
+            "link": "https://youtu.be/WOQ3c-CMsDE?si=Z_cA6UdMQytslydO",
+            "percent": 79,
+            "hz": 360
+         }
     ]
 }

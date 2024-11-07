@@ -5,24 +5,19 @@
         "link": "https://www.youtube.com/@gmdplayerfr"
     },
     {
-        "role": "admin",
-        "name": "W4ves",
-        "link": "https://www.youtube.com/@wavesgmd"
-    },
-       {
-        "role": "admin",
-        "name": "Cheton",
-        "link": "https://www.youtube.com/@chetongd"
-    },
-    {
         "role": "helper",
         "name": "List Helper",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Wa4es",
+        "link": "https://www.youtube.com/@wavesgmd"
+    },
+       {
+        "role": "trial",
+        "name": "Cheton",
+        "link": "https://www.youtube.com/@chetongd"
     },
     {
         "role": "dev",
@@ -34,4 +29,7 @@
         "name": "GDplayerfr",
         "link": "https://www.youtube.com/@gmdplayerfr"
     }
+
+
+    owner, admin, helper, trial, dev
 ]

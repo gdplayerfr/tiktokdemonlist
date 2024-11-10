@@ -1,0 +1,54 @@
+{
+    "id": 52919433,
+    "name": "Arctic Lights",
+    "author": "Endlevel",
+    "creators": [],
+    "verifier": "JohnLikesDiamond",
+    "verification": "https://www.youtube.com/watch?v=ng4fun1I1GE",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=YXeiEZhzzeA",
+            "percent": 100,
+            "hz": 360
+         },
+       {
+            "user": "Mystery",
+            "link": "https://www.youtube.com/watch?v=HtKWQsbN0YQ",
+            "percent": 100,
+            "hz": 360
+         },
+        {
+            "user": "Kopre",
+            "link": "https://www.youtube.com/watch?v=40LWesyXUeM",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Nordstrom",
+            "link": "https://www.youtube.com/watch?v=_NdPFmln_lM",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Pleid",
+            "link": "https://www.youtube.com/watch?v=5wIZig4NaGo",
+            "percent": 100,
+            "hz": 360
+         },
+         {
+            "user": "3lit3hax",
+            "link": "https://www.youtube.com/watch?v=dBmdwOQtSVw",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Nemzie",
+            "link": "https://www.youtube.com/watch?v=mFyxFuCkVQQ",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

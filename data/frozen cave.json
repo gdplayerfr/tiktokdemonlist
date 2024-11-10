@@ -1,0 +1,48 @@
+{
+    "id": 68908396,
+    "name": "Frozen Cave",
+    "author": "kszhyä10ki",
+    "creators": [],
+    "verifier": "Fxrmula",
+    "verification": "https://www.youtube.com/watch?v=t6jUt9eO0cw",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Kopre",
+            "link": "https://www.youtube.com/watch?v=dHc07S_zMWw",
+            "percent": 100,
+            "hz": 360
+         },
+        {
+            "user": "BryceTheBest",
+            "link": "https://www.youtube.com/watch?v=XEOB1CLmDU8",
+            "percent": 100,
+            "hz": 360
+         },
+        {
+            "user": "Nordstrom",
+            "link": "https://www.youtube.com/watch?v=HhfQi7gPx8M",
+            "percent": 100,
+            "hz": 360
+         },
+        {
+            "user": "Mystery",
+            "link": "https://www.youtube.com/watch?v=Qo89Qej-cuM",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=Dj-kv2k6bt4",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Lus",
+            "link": "https://www.youtube.com/watch?v=2M1YZlYCZ7I",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

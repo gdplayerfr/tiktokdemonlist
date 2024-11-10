@@ -1,0 +1,24 @@
+{
+    "id": 94928487,
+    "name": "Hardry",
+    "author": "Yonaka",
+    "creators": [],
+    "verifier": "Nordstrom",
+    "verification": "https://www.youtube.com/watch?v=HMOrWifj8xU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Nemzie",
+            "link": "https://www.youtube.com/watch?v=uHqYaev5EwQ",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "EdwardUK",
+            "link": "https://www.youtube.com/watch?v=ek2rYJZNYjc",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

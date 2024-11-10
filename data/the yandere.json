@@ -1,0 +1,24 @@
+{
+    "id": 49896559,
+    "name": "the Yandere",
+    "author": "Mazl ",
+    "creators": [],
+    "verifier": "Kole",
+    "verification": "https://www.youtube.com/watch?v=mH6gLqTN67s",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Nordstrom",
+            "link": "https://www.youtube.com/watch?v=h-eza8IBw-E",
+            "percent": 100,
+            "hz": 360
+         },
+        {
+            "user": "Warn",
+            "link": "https://www.tiktok.com/@wwarn/video/7409812294487592222?is_from_webapp=1&sender_device=pc&web_id=7435772624116794910",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

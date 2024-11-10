@@ -3,16 +3,10 @@
     "name": "Jessie Pinkman",
     "author": "Renn241",
     "creators": [],
-    "verifier": "Moix",
-    "verification": "https://www.youtube.com/watch?v=3MfnTydb8DE",
+    "verifier": "Turtle",
+    "verification": "https://www.youtube.com/watch?v=gLbdta4EFGg",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [    
-    {
-            "user": "Turtle",
-            "link": "https://www.youtube.com/watch?v=gLbdta4EFGg",
-            "percent": 100,
-            "hz": 360
-         }
     ]
 }

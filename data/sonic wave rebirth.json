@@ -1,0 +1,18 @@
+{
+    "id": 68688849,
+    "name": "Sonic Wave Rebirth",
+    "author": "Cyclic",
+    "creators": [],
+    "verifier": "Turtle",
+    "verification": "https://www.youtube.com/watch?v=UEsQjYmQkOE",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Nordstrom",
+            "link": "https://www.youtube.com/watch?v=_a7HNEkctcU",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

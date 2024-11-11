@@ -1,0 +1,24 @@
+{
+    "id": 63476401,
+    "name": "Wasureta",
+    "author": "crazen",
+    "creators": [],
+    "verifier": "Fxrmula",
+    "verification": "https://www.youtube.com/watch?v=FCrYQQDKf00",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Mystery",
+            "link": "https://www.youtube.com/watch?v=gEZW7YLJFa4",
+            "percent": 100,
+            "hz": 360
+         },
+        {
+            "user": "Suave",
+            "link": "https://www.youtube.com/watch?v=gEZW7YLJFa4",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

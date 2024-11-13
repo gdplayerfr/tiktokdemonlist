@@ -1,16 +1,40 @@
 {
     "id": 89414220,
-    "name": "unknown",
+    "name": "UNKNOWN",
     "author": "NineDice",
     "creators": [],
-    "verifier": "Cheton",
-    "verification": "https://youtu.be/nz8j5ADswMM?si=fqPgjWqtB6B28rRe",
+    "verifier": "Kopre",
+    "verification": "https://www.youtube.com/watch?v=8rI0m7RgBZ4",
     "percentToQualify": "89",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=TOKYeXDn9BU",
+            "percent": 100,
+            "hz": 360
+         },
+         {
+            "user": "Cheton",
+            "link": "https://www.youtube.com/watch?v=nz8j5ADswMM",
+            "percent": 100,
+            "hz": 360
+         },
+         {
+            "user": "Ronrjkw",
+            "link": "https://www.youtube.com/watch?v=9nPHjTN__jI",
+            "percent": 100,
+            "hz": 360
+         },
  {
             "user": "Kropka",
             "link": "https://youtu.be/_d9sZUNbRVQ?si=WHheT9moGDvcA-V4",
+            "percent": 100,
+            "hz": 360
+         },
+         {
+            "user": "Drakanja",
+            "link": "https://www.youtube.com/watch?v=0Jt6wcuaTZg",
             "percent": 100,
             "hz": 360
          }

@@ -8,8 +8,14 @@
     "percentToQualify": "64",
     "password": "Free To Copy",
     "records": [  
+              {
+            "user": "Ronrjkw",
+            "link": "https://www.youtube.com/watch?v=p30axOcBpqQ",
+            "percent": 100,
+            "hz": 360
+         },
           {
-            "user": "nordstrom",
+            "user": "Nordstrom",
             "link": "https://youtu.be/5cHtyZSzP7w?si=SD7o68u83NALf-iV",
             "percent": 100,
             "hz": 360

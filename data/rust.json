@@ -1,6 +1,6 @@
 {
     "id": 71912451,
-    "name": "Rust",
+    "name": "RUST",
     "author": "neigefeu",
     "creators": [],
     "verifier": "Mystery",
@@ -29,6 +29,12 @@
           {
             "user": "Turtle",
             "link": "https://www.youtube.com/watch?v=DiZHcQmVqQA",
+            "percent": 100,
+            "hz": 360
+         },
+           {
+            "user": "Ronrjkw",
+            "link": "https://www.youtube.com/watch?v=vm8rmgE_IdE",
             "percent": 100,
             "hz": 360
          }

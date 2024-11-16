@@ -8,9 +8,15 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [    
+           {
+            "user": "Nahka",
+            "link": "https://youtu.be/VvBN-XqsXkk?si=UvZO5z6NPLzr9dBH",
+            "percent": 100,
+            "hz": 360
+         },
     {
             "user": "Killhinker",
-            "link": "https://www.youtube.com/watch?v=_WDI3L-Zfmk",
+            "link": "https://youtu.be/__ULMZq4X7g?si=DnvA_gviKQWwdaRn",
             "percent": 100,
             "hz": 360
          },

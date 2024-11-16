@@ -8,5 +8,11 @@
     "percentToQualify": "69",
     "password": "Free To Copy",
     "records": [
+                  {
+            "user": "Mizukii",
+            "link": "https://www.youtube.com/watch?v=QvoJjIOTDT0&list=PLgRYrQ15is3fygth0St6CRdo-L_v5fVmh&index=16",
+            "percent": 100,
+            "hz": 360
+         }
     ]
 }

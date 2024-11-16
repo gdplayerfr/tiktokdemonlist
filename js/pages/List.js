@@ -104,6 +104,9 @@ export default {
                         </p>
                     <p>
                         Must have Tiktok as their main social media site for publishing geometrydash videos (etc Nordstrom not Mizukii)
+                               </p>
+                    <p>
+                        Must have at least 1000 followers to be counted as part of the GDTT community even if you use tiktok as your main platform
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record

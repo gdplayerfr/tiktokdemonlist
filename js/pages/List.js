@@ -103,7 +103,7 @@ export default {
                         Achieved the record without using hacks (cbf is allowed)
                         </p>
                     <p>
-                        Must have Tiktok as their main social media site for publishing geometrydash videos (etc Nordstrom not mi
+                        Must have Tiktok as their main social media site for publishing geometrydash videos (etc Nordstrom not Mizukii)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record

@@ -3,10 +3,16 @@
     "name": "Cold sweat",
     "author": "Para",
     "creators": [],
-    "verifier": "Nemzie",
-    "verification": "https://youtu.be/W7KVRCjLsk8?si=hWCmMusiMHEct-b7",
+    "verifier": "Nahka",
+    "verification": "https://youtu.be/wAM7oVfZ4e0?si=37HtOtt2JFFUbGXi",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+             {
+            "user": "Nemzie",
+            "link": "https://youtu.be/W7KVRCjLsk8?si=hWCmMusiMHEct-b7",
+            "percent": 100,
+            "hz": 360
+         }
     ]
 }

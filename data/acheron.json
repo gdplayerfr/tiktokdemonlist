@@ -3,16 +3,10 @@
     "name": "Acheron",
     "author": "Riot",
     "creators": [],
-    "verifier": "Mizukii",
-    "verification": "https://www.youtube.com/watch?v=obDiKsr24vo&list=PLgRYrQ15is3fygth0St6CRdo-L_v5fVmh&index=2",
+    "verifier": "Ronrjkw",
+    "verification": "https://youtu.be/e6v9hSPKqvM?si=utbWMIiE9UGwhZcV",
     "percentToQualify": "70",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Ronrjkw",
-            "link": "https://youtu.be/e6v9hSPKqvM?si=utbWMIiE9UGwhZcV",
-            "percent": 100,
-            "hz": 360
-         }
     ]
 }

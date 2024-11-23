@@ -91,6 +91,17 @@
             "link": "https://www.youtube.com/watch?v=rf6y6o3MjsE",
             "percent": 100,
             "hz": 360
+         },
+               "user": "zkirbo",
+            "link": "https://youtu.be/kRzzI96HHpI?si=UzWAiQ5Tm4WsADM2",
+            "percent": 100,
+            "hz": 360
+         },
+             {
+            "user": "Staticon",
+            "link": "https://youtu.be/VCWONkvGDWk",
+            "percent": 100,
+            "hz": 360
          }
     ]
 }

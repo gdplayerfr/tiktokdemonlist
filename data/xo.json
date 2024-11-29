@@ -1,0 +1,18 @@
+{
+    "id": 58825144,
+    "name": "XO",
+    "author": "KrmaL",
+    "creators": [],
+    "verifier": "johnlikesdiamond",
+    "verification": "https://www.youtube.com/watch?v=x8RQxwyj8L4",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=CwZKhjy9WCY",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

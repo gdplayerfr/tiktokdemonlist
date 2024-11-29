@@ -1,0 +1,40 @@
+{
+    "id": 28220417,
+    "name": "Yatagarasu",
+    "author": "Aeidux",
+    "creators": [],
+    "verifier": "Turtle",
+    "verification": "https://www.youtube.com/watch?v=ZqXPm99RHB8",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Nordstrom",
+            "link": "https://www.youtube.com/watch?v=w5YPe1pdTcM",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=3ouX9dT9dNo",
+            "percent": 100,
+            "hz": 360
+         },
+         { "user": "Mystery",
+            "link": "https://www.youtube.com/watch?v=TXZIzSm-Nnw",
+            "percent": 100,
+            "hz": 360
+         }
+        },
+         { "user": "Kopre",
+            "link": "https://www.youtube.com/watch?v=VMpJRGMME5Y",
+            "percent": 100,
+            "hz": 360
+         }
+         { "user": "GDplayerfr",
+            "link": "https://www.youtube.com/watch?v=VMpJRGMME5Y",
+            "percent": 97,
+            "hz": 360
+         }
+    ]
+}

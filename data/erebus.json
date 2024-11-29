@@ -1,0 +1,24 @@
+{
+    "id": 31462941,
+    "name": "Erebus",
+    "author": "Rustam",
+    "creators": [],
+    "verifier": "Turtle",
+    "verification": "https://www.youtube.com/watch?v=dBc0F5lm0i4",
+    "percentToQualify": "100",
+    "password": "123456",
+    "records": [    
+    {
+            "user": "3lit3hax",
+            "link": "https://youtu.be/n_-V8yxWR44?si=Szujoc82Q3OQSQQj",
+            "percent": 100,
+            "hz": 360
+         },
+        {
+            "user": "Steal",
+            "link": "https://youtu.be/dzYJO1xfmfg?si=2B-ZmQ01c843qwYl",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

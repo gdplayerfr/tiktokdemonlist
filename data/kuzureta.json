@@ -1,0 +1,24 @@
+{
+    "id": 71216292,
+    "name": "Kuzureta",
+    "author": "Cybertron",
+    "creators": [],
+    "verifier": "Fxrmula",
+    "verification": "https://www.youtube.com/watch?v=UHQUo6zzrYQ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Kopre",
+            "link": "https://www.youtube.com/watch?v=HOBlXC8VVd8",
+            "percent": 100,
+            "hz": 360
+         },
+       {
+            "user": "Nordstrom",
+            "link": "https://www.youtube.com/watch?v=x7fwP9u58Eg",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

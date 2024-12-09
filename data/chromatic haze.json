@@ -1,0 +1,24 @@
+{
+    "id": 62869408,
+    "name": "Chromatic Haze",
+    "author": "Gizbro",
+    "creators": [],
+    "verifier": "Kopre",
+    "verification": "https://www.youtube.com/watch?v=vmklkaI5m_Q",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Flaminqq",
+            "link": "https://youtu.be/g7BnhM8iNK0?si=1mwJpMhJssY1Rl1x",
+            "percent": 100,
+            "hz": 360
+         },
+        {
+            "user": "Sli",
+            "link": "https://youtu.be/lSJayxS1r34?si=5nJcYz8Etucfkayd",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

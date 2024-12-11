@@ -10,7 +10,7 @@
     "records": [    
     {
             "user": "Suave",
-            "link": "https://www.youtube.com/watch?v=5gx07ZNiuJY",
+            "link": "https://www.tiktok.com/@suave2xl/video/7339894912709692679?is_from_webapp=1&sender_device=pc&web_id=7423287486967563784",
             "percent": 100,
             "hz": 360
          },
@@ -22,9 +22,16 @@
          },
           {
              "user": "brzds",
-            "link": "https://youtu.be/PRcN3Vy-FpQ?si=cJ_BCHMoodXy-T83",
+            "link": "https://www.tiktok.com/@bradbeloved/video/7445800747117186335?is_from_webapp=1&sender_device=pc&web_id=7423287486967563784",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+             "user": "Spaxe",
+            "link": "https://www.tiktok.com/@spaxe___/video/7447205342750002454?is_from_webapp=1&sender_device=pc&web_id=7423287486967563784",
             "percent": 100,
             "hz": 360
          }
     ]
 }
+

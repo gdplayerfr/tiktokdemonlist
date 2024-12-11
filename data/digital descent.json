@@ -1,0 +1,30 @@
+{
+    "id": 37456092,
+    "name": "Digital Descent",
+    "author": "KrmaL",
+    "creators": [],
+    "verifier": "Turtle",
+    "verification": "https://www.youtube.com/watch?v=DmDcxaXV99s",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "3lit3hax",
+            "link": "https://www.youtube.com/watch?v=Wdd0kKmLnmk",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "kane",
+            "link": "hhttps://www.youtube.com/watch?v=uZ3LV8zst1c",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "fpfp",
+            "link": "https://www.youtube.com/watch?v=MO8zfje9wws",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

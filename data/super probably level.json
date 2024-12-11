@@ -7,6 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=h_Q1WFz0g50",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": [    
+    "records": [  
+         {
+            "user": "MaruiG",
+            "link": "https://youtu.be/LkCqo3A0u_k",
+            "percent": 100,
+            "hz": 360
+         }
     ]
 }

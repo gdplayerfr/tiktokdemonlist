@@ -74,7 +74,13 @@
             "percent": 100,
             "hz": 360
          },
-         {
+           {
+            "user": "eton",
+            "link": "https://www.youtube.com/watch?v=IYDB3aJv700",
+            "percent": 100,
+            "hz": 240          
+        },
+           {
             "user": "Draven",
             "link": "https://youtu.be/odrgZl9IOeo?si=527cnVG3RyWsl32D",
             "percent": 100,

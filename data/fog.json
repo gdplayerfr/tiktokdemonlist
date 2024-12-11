@@ -7,7 +7,13 @@
     "verification": "https://www.youtube.com/watch?v=bQYS5qjMwm4",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": [    
+    "records": [  
+          {
+            "user": "Kane",
+            "link": "https://youtu.be/VEMbVmMs-BM?si=IbpBgQZLYnpNYNM-",
+            "percent": 100,
+            "hz": 360
+         },
          {
             "user": "Draven",
             "link": "https://youtu.be/nBUh-Uag9W4",

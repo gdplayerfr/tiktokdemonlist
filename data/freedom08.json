@@ -1,0 +1,29 @@
+{
+    "id": 55274070,
+    "name": "Freedom08",
+    "author": "Pennutoh",
+    "creators": [],
+    "verifier": "KayserGD",
+    "verification": "https://www.youtube.com/watch?v=AaX8zx-nvzE&t=5s",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Suave",
+            "link": "https://www.youtube.com/watch?v=5gx07ZNiuJY",
+            "percent": 100,
+            "hz": 360
+
+            "user": "aqp",
+            "link": "https://www.tiktok.com/@applee2421/video/7375160942939671825?is_from_webapp=1&sender_device=pc&web_id=7423287486967563784",
+            "percent": 100,
+            "hz": 360
+
+             "user": "brzds",
+            "link": "https://www.tiktok.com/@bradbeloved/video/7445800747117186335?is_from_webapp=1&sender_device=pc&web_id=7423287486967563784",
+            "percent": 100,
+            "hz": 360
+      
+         }
+    ]
+}

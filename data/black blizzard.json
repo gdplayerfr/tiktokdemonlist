@@ -1,0 +1,36 @@
+{
+    "id": 60698989,
+    "name": "Black Blizzard",
+    "author": "Krmal",
+    "creators": [],
+    "verifier": "Turtle",
+    "verification": "https://www.youtube.com/watch?v=dJ9tAQ-7QZo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=GCPmcyhhKGA",
+            "percent": 100,
+            "hz": 360
+         },
+        {
+            "user": "3lit3hax",
+            "link": "https://youtu.be/52DUCwDqW5U?si=Z-81Akg22rx6xxVN",
+            "percent": 100,
+            "hz": 360
+         },
+       {
+            "user": "Bracus",
+            "link": "https://www.youtube.com/watch?v=PmtYf_vsJzA",
+            "percent": 100,
+            "hz": 360
+         },
+         {
+            "user": "Switchy",
+            "link": "https://youtu.be/OGFv_b5JPIM?si=7WdsP592E6UzG-Nf",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

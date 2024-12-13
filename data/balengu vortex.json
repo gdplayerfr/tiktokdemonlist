@@ -8,9 +8,15 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-    ]
+   {
             "user": "EdwardUK",
-            "link": "https://youtu.be/sMaQVwD8i4Y?si=PpkM65HpRSk_yGrF",
+            "link": "https://youtu.be/sMaQVwD8i4Y?si=16MilsUmB_fCAeqn",
+            "percent": 100,
+            "hz": 360
+         },
+         {
+            "user": "Kane",
+            "link": "https://www.tiktok.com/@kebabskanes/video/7367936055095463169?is_from_webapp=1&sender_device=pc&web_id=7423287486967563784",
             "percent": 100,
             "hz": 360
          }

@@ -7,7 +7,13 @@
     "verification": "https://www.youtube.com/watch?v=FCrYQQDKf00",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": [    
+    "records": [ 
+          {
+            "user": "Kopre",
+            "link": "https://youtu.be/1dPo54-h7TE",
+            "percent": 100,
+            "hz": 360
+         },
     {
             "user": "Mystery",
             "link": "https://www.youtube.com/watch?v=gEZW7YLJFa4",

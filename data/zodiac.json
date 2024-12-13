@@ -67,12 +67,19 @@
             "link": "https://youtu.be/DHU-IhAe8Ow?si=_4kgsDju6yIglVMa",
             "percent": 100,
             "hz":360
+             },
+             {
+            "user": "Cryostaz",
+            "link": "https://www.tiktok.com/@cryostaz/video/7414187169088081184?is_from_webapp=1&sender_device=pc&web_id=7423287486967563784",
+            "percent": 93,
+            "hz":360
          },
              {
             "user": "kopre",
             "link": "https://youtu.be/-mplFBXK7VU?si=sR3IzpFMKaGmyAXL",
             "percent": 79,
             "hz":360
+           
          }
     ]
 }

@@ -16,13 +16,19 @@
          },
           {
             "user": "kane",
-            "link": "hhttps://www.youtube.com/watch?v=uZ3LV8zst1c",
+            "link": "https://www.youtube.com/watch?v=uZ3LV8zst1c",
             "percent": 100,
             "hz": 360
          },
           {
             "user": "fpfp",
             "link": "https://www.youtube.com/watch?v=MO8zfje9wws",
+            "percent": 100,
+            "hz": 360
+              },
+          {
+            "user": "Suave",
+            "link": "https://www.tiktok.com/@suave2xl/video/7383303789521947912?is_from_webapp=1&sender_device=pc&web_id=7423287486967563784",
             "percent": 100,
             "hz": 360
          },

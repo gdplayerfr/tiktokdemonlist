@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "MaruiG",
+            "link": "https://youtu.be/2BKyTVegRG0",
+            "percent": 100,
+            "hz": 360
+         },
    {
             "user": "EdwardUK",
             "link": "https://youtu.be/sMaQVwD8i4Y?si=16MilsUmB_fCAeqn",

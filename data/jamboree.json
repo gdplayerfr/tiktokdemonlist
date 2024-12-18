@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/ZElxpsu2jnI?si=Wwh_PPNs6DZ4gBav",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": [
+    "records":  [
+    {
+            "user": "slattslattmf",
+            "link": "https://youtu.be/juUJp5IFB1Y",
+            "percent": 100,
+            "hz": 360
+         }
     ]
 }

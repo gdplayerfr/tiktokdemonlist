@@ -15,20 +15,20 @@
             "hz": 360
         },
         {
+            "user": "Bracus",
+            "link": "https://www.youtube.com/watch?v=PmtYf_vsJzA",
+            "percent": 100,
+            "hz": 360
+         },
+        {
             "user": "Suave",
             "link": "https://www.tiktok.com/@suave2xl/video/7333970213270031634?is_from_webapp=1&sender_device=pc&web_id=7423287486967563784",
             "percent": 100,
             "hz": 360
          },
-        {
+       {
             "user": "3lit3hax",
             "link": "https://youtu.be/52DUCwDqW5U?si=Z-81Akg22rx6xxVN",
-            "percent": 100,
-            "hz": 360
-         },
-       {
-            "user": "Bracus",
-            "link": "https://www.youtube.com/watch?v=PmtYf_vsJzA",
             "percent": 100,
             "hz": 360
            },
@@ -47,6 +47,12 @@
          {
             "user": "Switchy",
             "link": "https://youtu.be/OGFv_b5JPIM?si=7WdsP592E6UzG-Nf",
+            "percent": 100,
+            "hz": 360
+              },
+        {
+            "user": "slattslattmf",
+            "link": "https://youtu.be/waO0jL2RuOQ",
             "percent": 100,
             "hz": 360
          }

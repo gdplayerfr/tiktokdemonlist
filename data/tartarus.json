@@ -49,6 +49,18 @@
             "link": "https://www.youtube.com/watch?v=WCW32LC073E",
             "percent": 65,
             "hz": 360
+         },
+          {
+            "user": "Nahka",
+            "link": "https://youtu.be/XW52LexJazM?si=4crNJ62Ft6ZjiVqd",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "lus",
+            "link": "https://youtu.be/QlkS461KIbI?si=NYMfk60R7aTUxnbL",
+            "percent": 100,
+            "hz": 360
          }
     ]
 }

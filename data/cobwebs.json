@@ -1,12 +1,30 @@
 {
-    "id": 93516660,
+    "id": 82172844,
     "name": "Cobwebs",
-    "author": "Ninedice",
+    "author": "NineDice",
     "creators": [],
     "verifier": "Harhir",
     "verification": "https://www.youtube.com/watch?v=85gxz51HAiE",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=xzrbv2y25sI",
+            "percent": 100,
+            "hz": 360
+         },
+         {
+            "user": "Turtle",
+            "link": "https://www.youtube.com/watch?v=t5a_wZy9dVE",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Mystery",
+            "link": "https://www.youtube.com/watch?v=SSiTUY-ftno",
+            "percent": 100,
+            "hz": 360
+         }
     ]
 }

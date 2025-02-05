@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/wC6mc7zL2e8",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": [    
+    "records": [ 
+        {
+            "user": "Tired",
+            "link": "https://youtu.be/5-RlXP-wbEc",
+            "percent": 100,
+            "hz": 360
+         }
     ]
 }

@@ -55,6 +55,18 @@
             "link": "https://youtu.be/7qLQfyTOoWA?si=-S0-13hfGJmHNbMv",
             "percent": 100,
             "hz": 360
+         },
+         {
+            "user": "Bracus",
+            "link": "https://www.youtube.com/watch?v=7nJtXCEtfSs&t=6s",
+            "percent": 100,
+            "hz": 360
+         },
+          {
+            "user": "Alex",
+            "link": "https://youtu.be/t63uaQIrdvU?si=oGNLfR81CjUCH8YO",
+            "percent": 100,
+            "hz": 360
          }
     ]
 }

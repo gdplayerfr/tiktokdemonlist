@@ -8,5 +8,11 @@
     "percentToQualify": "74",
     "password": "Free To Copy",
     "records": [    
+        {
+            "user": "Sawyer",
+            "link": "https://youtu.be/ijsU4FRE6tg",
+            "percent": 100,
+            "hz": 360
+         }
     ]
 }

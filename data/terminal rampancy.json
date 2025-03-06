@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/4lfehyseG_Q",
     "percentToQualify": "73",
     "password": "Free To Copy",
-    "records": [    
+    "records": [  
+        {
+            "user": "bracus",
+            "link": "https://www.youtube.com/watch?v=396SGmzE92c",
+            "percent": 100,
+            "hz": 360
+         }
     ]
 }

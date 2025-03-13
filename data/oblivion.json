@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=3PHW4Z5F39g",
             "percent": 100,
             "hz": 360
+         },
+        {
+            "user": "Tired",
+            "link": "https://www.youtube.com/watch?v=Nry2AD4CWzg",
+            "percent": 100,
+            "hz": 360
          }
     ]
 }

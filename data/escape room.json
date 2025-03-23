@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Carv",
+            "link": "https://youtu.be/H4HYmesomgw?si=Cqc76XjGMxOYesto",
+            "percent": 100,
+            "hz": 360
+         }
     ]
 }

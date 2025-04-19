@@ -8,5 +8,11 @@
     "percentToQualify": "73",
     "password": "Free To Copy",
     "records": [    
+           {
+            "user": "Stevenxd42",
+            "link": "https://youtu.be/1CdATDwU_ns?si=G7WGuK-FKAgfS08-",
+            "percent": 100,
+            "hz": 360
+         }
  ]
 }

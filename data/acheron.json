@@ -20,10 +20,16 @@
             "percent": 100,
             "hz": 360
          },
+          {
+            "user": "Nordstrom",
+            "link": "https://youtu.be/iLkOYLbRNHQ",
+            "percent": 100,
+            "hz": 360
+         },
            {
             "user": "Turtle",
-            "link": "https://youtu.be/qAcGSMWyf1k?si=X3ED5vvtcmkXv8kO",
-            "percent": 86,
+            "link": "https://youtu.be/wlPYhot7wKM?si=_Dnp7RtqmO2HagK3",
+            "percent": 100,
             "hz": 360
          }
     ]

@@ -1,0 +1,48 @@
+{
+    "id": 115151904,
+    "name": "ta1LSD0ll",
+    "author": "ta1LSD0ll",
+    "creators": [],
+    "verifier": "Nemzie",
+    "verification": "https://www.youtube.com/watch?v=yJ61AattFi0",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [    
+    {
+            "user": "xdastro",
+            "link": "https://www.youtube.com/watch?v=0ouZXODnpZI",
+            "percent": 100,
+            "hz": 360
+         },
+       {
+            "user": "killhinker",
+            "link": "https://www.youtube.com/watch?v=g3FMbeqrOAY",
+            "percent": 100,
+            "hz": 360
+         },
+       {
+            "user": "fpfp",
+            "link": "https://www.youtube.com/watch?v=aAk0E84f0GE",
+            "percent": 100,
+            "hz": 360
+         },
+       {
+            "user": "Mob",
+            "link": "https://youtu.be/vxR40FhzH-0?si=GjoPzgq-Gadd57sT",
+            "percent": 100,
+            "hz": 360
+         },
+       {
+            "user": "Fisker",
+            "link": "https://www.youtube.com/watch?v=EK1P29Ikuwg",
+            "percent": 100,
+            "hz": 360
+         },
+       {
+            "user": "johnlikesdiamond",
+            "link": "https://www.youtube.com/watch?v=TSk3T1Zv_PU",
+            "percent": 100,
+            "hz": 360
+         }
+    ]
+}

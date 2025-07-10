@@ -56,7 +56,12 @@
             "link": "https://www.tiktok.com/@zkopre/video/7446934862822411563?is_from_webapp=1&sender_device=pc&web_id=7423287486967563784",
             "percent": 75,
             "hz":360    
+         },
+        {
+            "user": "Cryostaz",
+            "link": "https://youtu.be/b_zA0K-9lsA?si=FpF8UdV85oJeSyre",
+            "percent": 100,
+            "hz":360    
          }
-
     ]
 }
